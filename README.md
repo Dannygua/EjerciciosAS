@@ -3,9 +3,9 @@
 ## Integrantes
 
 Los responsables del repositorio son: 
-Danny Guañuna
-Pablo Trujillo
-Gabriela Garcia
+Danny Guañuna,
+Pablo Trujillo,
+Gabriela Garcia,
 Wester Mendoza
 
 ## Grabadora de Voz
