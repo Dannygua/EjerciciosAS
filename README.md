@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-Los reposables del repositorio son: 
+Los responsables del repositorio son: 
 Danny Guañuna
 Pablo Trujillo
 Gabriela Garcia
