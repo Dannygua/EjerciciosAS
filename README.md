@@ -1,5 +1,13 @@
 # EjerciciosAS
 
+## Integrantes
+
+Los reposables del repositorio son: 
+Danny Guañuna
+Pablo Trujillo
+Gabriela Garcia
+Wester Mendoza
+
 ## Grabadora de Voz
 
 La App grabadora de voz, grabara un audio al pulsar el boton de "Grabar Audio", y se reproducira ese audio al pulsar el boton "Reproducir audio
