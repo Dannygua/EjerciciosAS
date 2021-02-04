@@ -1,20 +1,36 @@
 # EjerciciosAS
 
+# Ejercicios Android (2do bimestre)
+
 ## Integrantes
 
 Los responsables del repositorio son: 
-Danny Guañuna,
-Pablo Trujillo,
-Gabriela Garcia,
-Wester Mendoza
 
-## Grabadora de Voz
+* Gabriela Garcia
+* Danny Guñuna
+* Joel Mendoza
+* Pablo Trujillo 
+
+1. Almacenamiento en una base de datos SQLite
+
+![](https://github.com/JoelMendoza1/Ejercicios-TopicosEspeciales/blob/main/Capturas/Ejercicio1-ConsultarDatos1.PNG)
+
+2. Almacenamiento de datos en un archivo de texto en la memoria interna
+
+![](https://github.com/JoelMendoza1/Ejercicios-TopicosEspeciales/blob/main/Capturas/Ejercicio2-IngresarTexto.PNG)
+
+3. Reproducción, pausa, continuación, y detención de un archivo de texto
+
+![](https://github.com/JoelMendoza1/Ejercicios-TopicosEspeciales/blob/main/Capturas/Ejercicio3-ReproductorMusica.PNG)
+
+
+4. Grabadora de Voz
 
 La App grabadora de voz, grabara un audio al pulsar el boton de "Grabar Audio", y se reproducira ese audio al pulsar el boton "Reproducir audio
 
 ![d1](https://user-images.githubusercontent.com/38481086/106399954-a9aab980-63e9-11eb-8d2b-22cc9f07ca8c.png)
 
-## BuscaMinas
+5. BuscaMinas
 
 La App Bucaminas imita la funcionalidad del famoso juego Buscaminas, en el cual se buscara las minas azules hasta que se pulse una mina roja que terminara el juego, ademas se incluyo un boton de reinicio para volver a empezar el juego 
 
